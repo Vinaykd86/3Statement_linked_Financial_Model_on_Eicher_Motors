@@ -1,6 +1,6 @@
 # 3 Statement linked Financial Model on Eicher Motors
 Project Overview:
-This project presents a fully integrated 3-statement financial model for Eicher Motors, developed as part of a financial modeling training program. The model includes a detailed revenue forecast based on business segment growth, a capital expenditure (Capex) model, a debt schedule for tracking borrowing and repayment, and a working capital model for managing current assets and liabilities. Using these components, the model generates an accurate cash flow statement, helping assess liquidity and cash generation. The project also includes linked Income Statement and Balance Sheet projections, enabling a holistic analysis of Eicher Motors' financial health. This tool is designed for scenario analysis, performance evaluation, and strategic financial planning.
+This project presents a fully integrated 3-statement financial model for Eicher Motors. The model includes a detailed revenue forecast based on business segment growth, a capital expenditure (Capex) model, a debt schedule for tracking borrowing and repayment, and a working capital model for managing current assets and liabilities. Using these components, the model generates an accurate cash flow statement, helping assess liquidity and cash generation. The project also includes linked Income Statement and Balance Sheet projections, enabling a holistic analysis of Eicher Motors' financial health. This tool is designed for scenario analysis, performance evaluation, and strategic financial planning.
 
 Components Description:
 
